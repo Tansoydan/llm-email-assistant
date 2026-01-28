@@ -50,7 +50,7 @@ llm-email-assistant/
 │   ├── classifier.py     # LLM prompt + classification logic
 │   └── llm.py            # Ollama client
 ├── requirements.txt
-├── .env.example
+├── .env
 └── README.md
 ```
 
