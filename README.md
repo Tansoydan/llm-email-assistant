@@ -136,16 +136,6 @@ On first run, a browser window will open to authorise Gmail access.
 
 ---
 
-## Future Improvements
-
-- Rule-based pre-filtering before LLM calls  
-- Separation of "needs_reply" vs informational emails  
-- SQLite persistence to avoid reprocessing emails  
-- CLI flags (`--dry-run`, `--max-results`)  
-- Evaluation dataset for classification quality  
-
----
-
 ## License
 
 This project is intended for educational and portfolio purposes.
